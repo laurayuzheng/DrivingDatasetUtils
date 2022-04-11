@@ -39,12 +39,12 @@ def get_steering_id_from_timestamp(frame_timestamp, steer_timestamps):
 
 def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
 
-    folders = ["20180810_150607", "20190401_121727", "20190401_145936"]
+    folders = ["20190401_121727"]
     seq_count = 0
-    
+    num_frames = 32 # create sequence of 8
 
     for folder in folders:
-        bus_signal_file = os.path.join(data_root, "camera_lidar/" + folder + "/bus_signals_" + folder.replace("_","") + ".json")
+        bus_signal_file = os.path.join(data_root, "camera_lidar", folder, "bus", folder.replace("_","") + "_bus_signals" + ".json")
         with open(bus_signal_file) as f:
             bus_signal = json.load(f)
         steer_labels = bus_signal['steering_angle_calculated']['values']
@@ -62,14 +62,14 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
         image_folder = os.path.join(data_root, "camera_lidar/" + folder + "/camera/cam_front_center/")
         json_list = sorted(glob.glob( image_folder + "/*.json"))
         print(json_list)
-        test_split_idx = int(len(json_list)/8 * (1-test_split)) - 1 # index to start saving to test
+        test_split_idx = int(len(json_list)/num_frames * (1-test_split)) - 1 # index to start saving to test
         val_split_idx = int(test_split_idx * (1-trainval_split)) # index to start saving to val
-        print("Total sequences in folder: ", int(len(json_list) / 8))
+        print("Total sequences in folder: ", int(len(json_list) / num_frames))
         print(test_split_idx, val_split_idx)
 
         # STEP = 5
         frame_count = 0 # keeps track of frames saved
-        num_frames = 8 # create sequence of 8
+        
         x = [] 
         y = [] 
         seq_count_folder = 0
@@ -105,7 +105,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
             frame = cv2.resize(frame, (224, 224))
             # cv2.imwrite("train"+DATASET_NAME+"/"+image_name, frame)
             x.append(frame)
-            y.append(angle)
+            y.append([angle])
 
             if len(y) % num_frames == 0: 
                 x = np.array(x)
@@ -134,7 +134,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
 
 if __name__ == '__main__':
     # process_img_seg()
-    data_root = "/scratch/vroom/data/audi_raw"
-    save_dir = "/scratch/vroom/data/audi_npz"
+    data_root = "/scratch/vroom/data/audi_raw/audi_munich"
+    save_dir = "/scratch/vroom/data/audi_32"
     process_img(data_root, save_dir)
     # generate_depthmap()
