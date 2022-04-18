@@ -1,0 +1,1964 @@
+CSV File opened
+Successfully connected to CARLA
+Starting to record data...
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+ERROR: Spawn failed because of collision at spawn position
+Spawned 51 vehicles and 37 walkers
+
+Img save path:  /scratch/vroom/data/CARLA_raw/0/0.png
+Frame 1/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/1.png
+Frame 2/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/2.png
+Frame 3/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/3.png
+Frame 4/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/4.png
+Frame 5/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/5.png
+Frame 6/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/6.png
+Frame 7/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/7.png
+Frame 8/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/8.png
+Frame 9/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/9.png
+Frame 10/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/10.png
+Frame 11/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/11.png
+Frame 12/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/12.png
+Frame 13/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/13.png
+Frame 14/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/14.png
+Frame 15/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/15.png
+Frame 16/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/16.png
+Frame 17/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/17.png
+Frame 18/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/18.png
+Frame 19/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/19.png
+Frame 20/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/20.png
+Frame 21/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/21.png
+Frame 22/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/22.png
+Frame 23/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/23.png
+Frame 24/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/24.png
+Frame 25/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/25.png
+Frame 26/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/26.png
+Frame 27/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/27.png
+Frame 28/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/28.png
+Frame 29/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/29.png
+Frame 30/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/30.png
+Frame 31/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/31.png
+Frame 32/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/32.png
+Frame 33/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/33.png
+Frame 34/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/34.png
+Frame 35/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/35.png
+Frame 36/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/36.png
+Frame 37/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/37.png
+Frame 38/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/38.png
+Frame 39/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/39.png
+Frame 40/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/40.png
+Frame 41/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/41.png
+Frame 42/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/42.png
+Frame 43/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/43.png
+Frame 44/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/44.png
+Frame 45/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/45.png
+Frame 46/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/46.png
+Frame 47/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/47.png
+Frame 48/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/48.png
+Frame 49/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/49.png
+Frame 50/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/50.png
+Frame 51/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/51.png
+Frame 52/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/52.png
+Frame 53/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/53.png
+Frame 54/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/54.png
+Frame 55/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/55.png
+Frame 56/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/56.png
+Frame 57/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/57.png
+Frame 58/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/58.png
+Frame 59/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/59.png
+Frame 60/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/60.png
+Frame 61/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/61.png
+Frame 62/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/62.png
+Frame 63/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/63.png
+Frame 64/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/64.png
+Frame 65/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/65.png
+Frame 66/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/66.png
+Frame 67/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/67.png
+Frame 68/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/68.png
+Frame 69/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/69.png
+Frame 70/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/70.png
+Frame 71/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/71.png
+Frame 72/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/72.png
+Frame 73/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/73.png
+Frame 74/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/74.png
+Frame 75/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/75.png
+Frame 76/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/76.png
+Frame 77/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/77.png
+Frame 78/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/78.png
+Frame 79/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/79.png
+Frame 80/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/80.png
+Frame 81/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/81.png
+Frame 82/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/82.png
+Frame 83/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/83.png
+Frame 84/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/84.png
+Frame 85/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/85.png
+Frame 86/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/86.png
+Frame 87/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/87.png
+Frame 88/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/88.png
+Frame 89/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/89.png
+Frame 90/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/90.png
+Frame 91/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/91.png
+Frame 92/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/92.png
+Frame 93/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/93.png
+Frame 94/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/94.png
+Frame 95/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/95.png
+Frame 96/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/96.png
+Frame 97/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/97.png
+Frame 98/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/98.png
+Frame 99/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/99.png
+Frame 100/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/100.png
+Frame 101/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/101.png
+Frame 102/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/102.png
+Frame 103/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/103.png
+Frame 104/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/104.png
+Frame 105/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/105.png
+Frame 106/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/106.png
+Frame 107/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/107.png
+Frame 108/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/108.png
+Frame 109/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/109.png
+Frame 110/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/110.png
+Frame 111/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/111.png
+Frame 112/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/112.png
+Frame 113/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/113.png
+Frame 114/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/114.png
+Frame 115/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/115.png
+Frame 116/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/116.png
+Frame 117/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/117.png
+Frame 118/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/118.png
+Frame 119/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/119.png
+Frame 120/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/120.png
+Frame 121/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/121.png
+Frame 122/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/122.png
+Frame 123/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/123.png
+Frame 124/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/124.png
+Frame 125/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/125.png
+Frame 126/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/126.png
+Frame 127/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/127.png
+Frame 128/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/128.png
+Frame 129/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/129.png
+Frame 130/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/130.png
+Frame 131/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/131.png
+Frame 132/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/132.png
+Frame 133/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/133.png
+Frame 134/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/134.png
+Frame 135/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/135.png
+Frame 136/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/136.png
+Frame 137/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/137.png
+Frame 138/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/138.png
+Frame 139/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/139.png
+Frame 140/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/140.png
+Frame 141/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/141.png
+Frame 142/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/142.png
+Frame 143/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/143.png
+Frame 144/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/144.png
+Frame 145/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/145.png
+Frame 146/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/146.png
+Frame 147/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/147.png
+Frame 148/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/148.png
+Frame 149/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/149.png
+Frame 150/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/150.png
+Frame 151/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/151.png
+Frame 152/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/152.png
+Frame 153/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/153.png
+Frame 154/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/154.png
+Frame 155/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/155.png
+Frame 156/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/156.png
+Frame 157/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/157.png
+Frame 158/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/158.png
+Frame 159/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/159.png
+Frame 160/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/160.png
+Frame 161/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/161.png
+Frame 162/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/162.png
+Frame 163/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/163.png
+Frame 164/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/164.png
+Frame 165/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/165.png
+Frame 166/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/166.png
+Frame 167/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/167.png
+Frame 168/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/168.png
+Frame 169/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/169.png
+Frame 170/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/170.png
+Frame 171/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/171.png
+Frame 172/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/172.png
+Frame 173/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/173.png
+Frame 174/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/174.png
+Frame 175/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/175.png
+Frame 176/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/176.png
+Frame 177/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/177.png
+Frame 178/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/178.png
+Frame 179/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/179.png
+Frame 180/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/180.png
+Frame 181/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/181.png
+Frame 182/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/182.png
+Frame 183/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/183.png
+Frame 184/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/184.png
+Frame 185/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/185.png
+Frame 186/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/186.png
+Frame 187/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/187.png
+Frame 188/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/188.png
+Frame 189/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/189.png
+Frame 190/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/190.png
+Frame 191/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/191.png
+Frame 192/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/192.png
+Frame 193/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/193.png
+Frame 194/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/194.png
+Frame 195/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/195.png
+Frame 196/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/196.png
+Frame 197/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/197.png
+Frame 198/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/198.png
+Frame 199/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/199.png
+Frame 200/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/200.png
+Frame 201/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/201.png
+Frame 202/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/202.png
+Frame 203/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/203.png
+Frame 204/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/204.png
+Frame 205/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/205.png
+Frame 206/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/206.png
+Frame 207/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/207.png
+Frame 208/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/208.png
+Frame 209/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/209.png
+Frame 210/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/210.png
+Frame 211/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/211.png
+Frame 212/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/212.png
+Frame 213/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/213.png
+Frame 214/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/214.png
+Frame 215/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/215.png
+Frame 216/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/216.png
+Frame 217/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/217.png
+Frame 218/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/218.png
+Frame 219/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/219.png
+Frame 220/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/220.png
+Frame 221/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/221.png
+Frame 222/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/222.png
+Frame 223/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/223.png
+Frame 224/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/224.png
+Frame 225/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/225.png
+Frame 226/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/226.png
+Frame 227/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/227.png
+Frame 228/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/228.png
+Frame 229/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/229.png
+Frame 230/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/230.png
+Frame 231/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/231.png
+Frame 232/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/232.png
+Frame 233/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/233.png
+Frame 234/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/234.png
+Frame 235/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/235.png
+Frame 236/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/236.png
+Frame 237/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/237.png
+Frame 238/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/238.png
+Frame 239/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/239.png
+Frame 240/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/240.png
+Frame 241/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/241.png
+Frame 242/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/242.png
+Frame 243/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/243.png
+Frame 244/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/244.png
+Frame 245/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/245.png
+Frame 246/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/246.png
+Frame 247/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/247.png
+Frame 248/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/248.png
+Frame 249/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/249.png
+Frame 250/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/250.png
+Frame 251/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/251.png
+Frame 252/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/252.png
+Frame 253/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/253.png
+Frame 254/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/254.png
+Frame 255/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/255.png
+Frame 256/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/256.png
+Frame 257/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/257.png
+Frame 258/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/258.png
+Frame 259/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/259.png
+Frame 260/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/260.png
+Frame 261/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/261.png
+Frame 262/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/262.png
+Frame 263/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/263.png
+Frame 264/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/264.png
+Frame 265/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/265.png
+Frame 266/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/266.png
+Frame 267/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/267.png
+Frame 268/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/268.png
+Frame 269/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/269.png
+Frame 270/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/270.png
+Frame 271/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/271.png
+Frame 272/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/272.png
+Frame 273/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/273.png
+Frame 274/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/274.png
+Frame 275/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/275.png
+Frame 276/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/276.png
+Frame 277/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/277.png
+Frame 278/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/278.png
+Frame 279/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/279.png
+Frame 280/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/280.png
+Frame 281/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/281.png
+Frame 282/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/282.png
+Frame 283/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/283.png
+Frame 284/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/284.png
+Frame 285/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/285.png
+Frame 286/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/286.png
+Frame 287/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/287.png
+Frame 288/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/288.png
+Frame 289/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/289.png
+Frame 290/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/290.png
+Frame 291/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/291.png
+Frame 292/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/292.png
+Frame 293/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/293.png
+Frame 294/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/294.png
+Frame 295/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/295.png
+Frame 296/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/296.png
+Frame 297/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/297.png
+Frame 298/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/298.png
+Frame 299/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/299.png
+Frame 300/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/300.png
+Frame 301/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/301.png
+Frame 302/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/302.png
+Frame 303/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/303.png
+Frame 304/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/304.png
+Frame 305/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/305.png
+Frame 306/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/306.png
+Frame 307/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/307.png
+Frame 308/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/308.png
+Frame 309/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/309.png
+Frame 310/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/310.png
+Frame 311/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/311.png
+Frame 312/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/312.png
+Frame 313/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/313.png
+Frame 314/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/314.png
+Frame 315/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/315.png
+Frame 316/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/316.png
+Frame 317/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/317.png
+Frame 318/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/318.png
+Frame 319/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/319.png
+Frame 320/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/320.png
+Frame 321/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/321.png
+Frame 322/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/322.png
+Frame 323/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/323.png
+Frame 324/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/324.png
+Frame 325/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/325.png
+Frame 326/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/326.png
+Frame 327/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/327.png
+Frame 328/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/328.png
+Frame 329/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/329.png
+Frame 330/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/330.png
+Frame 331/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/331.png
+Frame 332/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/332.png
+Frame 333/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/333.png
+Frame 334/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/334.png
+Frame 335/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/335.png
+Frame 336/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/336.png
+Frame 337/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/337.png
+Frame 338/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/338.png
+Frame 339/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/339.png
+Frame 340/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/340.png
+Frame 341/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/341.png
+Frame 342/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/342.png
+Frame 343/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/343.png
+Frame 344/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/344.png
+Frame 345/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/345.png
+Frame 346/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/346.png
+Frame 347/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/347.png
+Frame 348/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/348.png
+Frame 349/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/349.png
+Frame 350/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/350.png
+Frame 351/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/351.png
+Frame 352/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/352.png
+Frame 353/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/353.png
+Frame 354/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/354.png
+Frame 355/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/355.png
+Frame 356/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/356.png
+Frame 357/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/357.png
+Frame 358/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/358.png
+Frame 359/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/359.png
+Frame 360/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/360.png
+Frame 361/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/361.png
+Frame 362/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/362.png
+Frame 363/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/363.png
+Frame 364/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/364.png
+Frame 365/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/365.png
+Frame 366/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/366.png
+Frame 367/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/367.png
+Frame 368/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/368.png
+Frame 369/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/369.png
+Frame 370/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/370.png
+Frame 371/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/371.png
+Frame 372/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/372.png
+Frame 373/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/373.png
+Frame 374/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/374.png
+Frame 375/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/375.png
+Frame 376/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/376.png
+Frame 377/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/377.png
+Frame 378/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/378.png
+Frame 379/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/379.png
+Frame 380/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/380.png
+Frame 381/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/381.png
+Frame 382/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/382.png
+Frame 383/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/383.png
+Frame 384/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/384.png
+Frame 385/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/385.png
+Frame 386/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/386.png
+Frame 387/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/387.png
+Frame 388/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/388.png
+Frame 389/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/389.png
+Frame 390/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/390.png
+Frame 391/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/391.png
+Frame 392/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/392.png
+Frame 393/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/393.png
+Frame 394/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/394.png
+Frame 395/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/395.png
+Frame 396/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/396.png
+Frame 397/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/397.png
+Frame 398/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/398.png
+Frame 399/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/399.png
+Frame 400/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/400.png
+Frame 401/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/401.png
+Frame 402/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/402.png
+Frame 403/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/403.png
+Frame 404/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/404.png
+Frame 405/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/405.png
+Frame 406/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/406.png
+Frame 407/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/407.png
+Frame 408/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/408.png
+Frame 409/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/409.png
+Frame 410/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/410.png
+Frame 411/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/411.png
+Frame 412/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/412.png
+Frame 413/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/413.png
+Frame 414/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/414.png
+Frame 415/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/415.png
+Frame 416/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/416.png
+Frame 417/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/417.png
+Frame 418/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/418.png
+Frame 419/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/419.png
+Frame 420/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/420.png
+Frame 421/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/421.png
+Frame 422/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/422.png
+Frame 423/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/423.png
+Frame 424/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/424.png
+Frame 425/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/425.png
+Frame 426/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/426.png
+Frame 427/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/427.png
+Frame 428/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/428.png
+Frame 429/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/429.png
+Frame 430/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/430.png
+Frame 431/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/431.png
+Frame 432/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/432.png
+Frame 433/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/433.png
+Frame 434/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/434.png
+Frame 435/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/435.png
+Frame 436/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/436.png
+Frame 437/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/437.png
+Frame 438/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/438.png
+Frame 439/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/439.png
+Frame 440/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/440.png
+Frame 441/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/441.png
+Frame 442/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/442.png
+Frame 443/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/443.png
+Frame 444/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/444.png
+Frame 445/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/445.png
+Frame 446/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/446.png
+Frame 447/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/447.png
+Frame 448/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/448.png
+Frame 449/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/449.png
+Frame 450/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/450.png
+Frame 451/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/451.png
+Frame 452/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/452.png
+Frame 453/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/453.png
+Frame 454/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/454.png
+Frame 455/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/455.png
+Frame 456/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/456.png
+Frame 457/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/457.png
+Frame 458/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/458.png
+Frame 459/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/459.png
+Frame 460/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/460.png
+Frame 461/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/461.png
+Frame 462/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/462.png
+Frame 463/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/463.png
+Frame 464/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/464.png
+Frame 465/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/465.png
+Frame 466/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/466.png
+Frame 467/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/467.png
+Frame 468/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/468.png
+Frame 469/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/469.png
+Frame 470/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/470.png
+Frame 471/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/471.png
+Frame 472/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/472.png
+Frame 473/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/473.png
+Frame 474/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/474.png
+Frame 475/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/475.png
+Frame 476/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/476.png
+Frame 477/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/477.png
+Frame 478/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/478.png
+Frame 479/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/479.png
+Frame 480/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/480.png
+Frame 481/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/481.png
+Frame 482/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/482.png
+Frame 483/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/483.png
+Frame 484/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/484.png
+Frame 485/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/485.png
+Frame 486/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/486.png
+Frame 487/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/487.png
+Frame 488/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/488.png
+Frame 489/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/489.png
+Frame 490/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/490.png
+Frame 491/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/491.png
+Frame 492/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/492.png
+Frame 493/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/493.png
+Frame 494/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/494.png
+Frame 495/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/495.png
+Frame 496/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/496.png
+Frame 497/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/497.png
+Frame 498/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/498.png
+Frame 499/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/499.png
+Frame 500/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/500.png
+Frame 501/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/501.png
+Frame 502/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/502.png
+Frame 503/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/503.png
+Frame 504/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/504.png
+Frame 505/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/505.png
+Frame 506/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/506.png
+Frame 507/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/507.png
+Frame 508/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/508.png
+Frame 509/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/509.png
+Frame 510/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/510.png
+Frame 511/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/511.png
+Frame 512/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/512.png
+Frame 513/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/513.png
+Frame 514/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/514.png
+Frame 515/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/515.png
+Frame 516/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/516.png
+Frame 517/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/517.png
+Frame 518/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/518.png
+Frame 519/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/519.png
+Frame 520/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/520.png
+Frame 521/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/521.png
+Frame 522/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/522.png
+Frame 523/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/523.png
+Frame 524/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/524.png
+Frame 525/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/525.png
+Frame 526/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/526.png
+Frame 527/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/527.png
+Frame 528/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/528.png
+Frame 529/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/529.png
+Frame 530/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/530.png
+Frame 531/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/531.png
+Frame 532/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/532.png
+Frame 533/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/533.png
+Frame 534/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/534.png
+Frame 535/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/535.png
+Frame 536/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/536.png
+Frame 537/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/537.png
+Frame 538/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/538.png
+Frame 539/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/539.png
+Frame 540/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/540.png
+Frame 541/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/541.png
+Frame 542/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/542.png
+Frame 543/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/543.png
+Frame 544/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/544.png
+Frame 545/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/545.png
+Frame 546/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/546.png
+Frame 547/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/547.png
+Frame 548/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/548.png
+Frame 549/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/549.png
+Frame 550/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/550.png
+Frame 551/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/551.png
+Frame 552/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/552.png
+Frame 553/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/553.png
+Frame 554/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/554.png
+Frame 555/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/555.png
+Frame 556/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/556.png
+Frame 557/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/557.png
+Frame 558/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/558.png
+Frame 559/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/559.png
+Frame 560/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/560.png
+Frame 561/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/561.png
+Frame 562/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/562.png
+Frame 563/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/563.png
+Frame 564/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/564.png
+Frame 565/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/565.png
+Frame 566/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/566.png
+Frame 567/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/567.png
+Frame 568/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/568.png
+Frame 569/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/569.png
+Frame 570/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/570.png
+Frame 571/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/571.png
+Frame 572/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/572.png
+Frame 573/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/573.png
+Frame 574/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/574.png
+Frame 575/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/575.png
+Frame 576/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/576.png
+Frame 577/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/577.png
+Frame 578/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/578.png
+Frame 579/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/579.png
+Frame 580/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/580.png
+Frame 581/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/581.png
+Frame 582/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/582.png
+Frame 583/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/583.png
+Frame 584/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/584.png
+Frame 585/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/585.png
+Frame 586/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/586.png
+Frame 587/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/587.png
+Frame 588/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/588.png
+Frame 589/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/589.png
+Frame 590/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/590.png
+Frame 591/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/591.png
+Frame 592/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/592.png
+Frame 593/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/593.png
+Frame 594/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/594.png
+Frame 595/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/595.png
+Frame 596/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/596.png
+Frame 597/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/597.png
+Frame 598/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/598.png
+Frame 599/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/599.png
+Frame 600/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/600.png
+Frame 601/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/601.png
+Frame 602/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/602.png
+Frame 603/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/603.png
+Frame 604/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/604.png
+Frame 605/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/605.png
+Frame 606/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/606.png
+Frame 607/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/607.png
+Frame 608/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/608.png
+Frame 609/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/609.png
+Frame 610/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/610.png
+Frame 611/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/611.png
+Frame 612/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/612.png
+Frame 613/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/613.png
+Frame 614/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/614.png
+Frame 615/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/615.png
+Frame 616/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/616.png
+Frame 617/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/617.png
+Frame 618/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/618.png
+Frame 619/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/619.png
+Frame 620/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/620.png
+Frame 621/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/621.png
+Frame 622/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/622.png
+Frame 623/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/623.png
+Frame 624/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/624.png
+Frame 625/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/625.png
+Frame 626/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/626.png
+Frame 627/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/627.png
+Frame 628/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/628.png
+Frame 629/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/629.png
+Frame 630/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/630.png
+Frame 631/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/631.png
+Frame 632/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/632.png
+Frame 633/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/633.png
+Frame 634/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/634.png
+Frame 635/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/635.png
+Frame 636/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/636.png
+Frame 637/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/637.png
+Frame 638/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/638.png
+Frame 639/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/639.png
+Frame 640/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/640.png
+Frame 641/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/641.png
+Frame 642/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/642.png
+Frame 643/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/643.png
+Frame 644/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/644.png
+Frame 645/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/645.png
+Frame 646/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/646.png
+Frame 647/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/647.png
+Frame 648/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/648.png
+Frame 649/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/649.png
+Frame 650/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/650.png
+Frame 651/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/651.png
+Frame 652/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/652.png
+Frame 653/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/653.png
+Frame 654/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/654.png
+Frame 655/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/655.png
+Frame 656/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/656.png
+Frame 657/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/657.png
+Frame 658/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/658.png
+Frame 659/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/659.png
+Frame 660/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/660.png
+Frame 661/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/661.png
+Frame 662/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/662.png
+Frame 663/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/663.png
+Frame 664/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/664.png
+Frame 665/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/665.png
+Frame 666/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/666.png
+Frame 667/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/667.png
+Frame 668/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/668.png
+Frame 669/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/669.png
+Frame 670/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/670.png
+Frame 671/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/671.png
+Frame 672/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/672.png
+Frame 673/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/673.png
+Frame 674/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/674.png
+Frame 675/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/675.png
+Frame 676/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/676.png
+Frame 677/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/677.png
+Frame 678/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/678.png
+Frame 679/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/679.png
+Frame 680/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/680.png
+Frame 681/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/681.png
+Frame 682/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/682.png
+Frame 683/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/683.png
+Frame 684/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/684.png
+Frame 685/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/685.png
+Frame 686/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/686.png
+Frame 687/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/687.png
+Frame 688/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/688.png
+Frame 689/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/689.png
+Frame 690/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/690.png
+Frame 691/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/691.png
+Frame 692/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/692.png
+Frame 693/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/693.png
+Frame 694/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/694.png
+Frame 695/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/695.png
+Frame 696/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/696.png
+Frame 697/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/697.png
+Frame 698/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/698.png
+Frame 699/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/699.png
+Frame 700/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/700.png
+Frame 701/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/701.png
+Frame 702/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/702.png
+Frame 703/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/703.png
+Frame 704/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/704.png
+Frame 705/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/705.png
+Frame 706/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/706.png
+Frame 707/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/707.png
+Frame 708/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/708.png
+Frame 709/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/709.png
+Frame 710/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/710.png
+Frame 711/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/711.png
+Frame 712/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/712.png
+Frame 713/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/713.png
+Frame 714/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/714.png
+Frame 715/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/715.png
+Frame 716/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/716.png
+Frame 717/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/717.png
+Frame 718/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/718.png
+Frame 719/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/719.png
+Frame 720/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/720.png
+Frame 721/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/721.png
+Frame 722/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/722.png
+Frame 723/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/723.png
+Frame 724/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/724.png
+Frame 725/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/725.png
+Frame 726/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/726.png
+Frame 727/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/727.png
+Frame 728/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/728.png
+Frame 729/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/729.png
+Frame 730/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/730.png
+Frame 731/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/731.png
+Frame 732/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/732.png
+Frame 733/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/733.png
+Frame 734/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/734.png
+Frame 735/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/735.png
+Frame 736/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/736.png
+Frame 737/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/737.png
+Frame 738/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/738.png
+Frame 739/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/739.png
+Frame 740/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/740.png
+Frame 741/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/741.png
+Frame 742/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/742.png
+Frame 743/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/743.png
+Frame 744/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/744.png
+Frame 745/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/745.png
+Frame 746/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/746.png
+Frame 747/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/747.png
+Frame 748/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/748.png
+Frame 749/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/749.png
+Frame 750/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/750.png
+Frame 751/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/751.png
+Frame 752/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/752.png
+Frame 753/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/753.png
+Frame 754/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/754.png
+Frame 755/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/755.png
+Frame 756/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/756.png
+Frame 757/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/757.png
+Frame 758/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/758.png
+Frame 759/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/759.png
+Frame 760/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/760.png
+Frame 761/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/761.png
+Frame 762/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/762.png
+Frame 763/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/763.png
+Frame 764/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/764.png
+Frame 765/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/765.png
+Frame 766/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/766.png
+Frame 767/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/767.png
+Frame 768/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/768.png
+Frame 769/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/769.png
+Frame 770/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/770.png
+Frame 771/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/771.png
+Frame 772/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/772.png
+Frame 773/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/773.png
+Frame 774/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/774.png
+Frame 775/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/775.png
+Frame 776/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/776.png
+Frame 777/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/777.png
+Frame 778/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/778.png
+Frame 779/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/779.png
+Frame 780/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/780.png
+Frame 781/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/781.png
+Frame 782/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/782.png
+Frame 783/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/783.png
+Frame 784/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/784.png
+Frame 785/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/785.png
+Frame 786/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/786.png
+Frame 787/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/787.png
+Frame 788/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/788.png
+Frame 789/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/789.png
+Frame 790/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/790.png
+Frame 791/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/791.png
+Frame 792/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/792.png
+Frame 793/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/793.png
+Frame 794/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/794.png
+Frame 795/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/795.png
+Frame 796/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/796.png
+Frame 797/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/797.png
+Frame 798/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/798.png
+Frame 799/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/799.png
+Frame 800/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/800.png
+Frame 801/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/801.png
+Frame 802/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/802.png
+Frame 803/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/803.png
+Frame 804/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/804.png
+Frame 805/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/805.png
+Frame 806/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/806.png
+Frame 807/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/807.png
+Frame 808/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/808.png
+Frame 809/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/809.png
+Frame 810/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/810.png
+Frame 811/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/811.png
+Frame 812/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/812.png
+Frame 813/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/813.png
+Frame 814/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/814.png
+Frame 815/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/815.png
+Frame 816/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/816.png
+Frame 817/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/817.png
+Frame 818/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/818.png
+Frame 819/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/819.png
+Frame 820/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/820.png
+Frame 821/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/821.png
+Frame 822/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/822.png
+Frame 823/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/823.png
+Frame 824/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/824.png
+Frame 825/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/825.png
+Frame 826/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/826.png
+Frame 827/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/827.png
+Frame 828/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/828.png
+Frame 829/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/829.png
+Frame 830/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/830.png
+Frame 831/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/831.png
+Frame 832/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/832.png
+Frame 833/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/833.png
+Frame 834/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/834.png
+Frame 835/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/835.png
+Frame 836/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/836.png
+Frame 837/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/837.png
+Frame 838/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/838.png
+Frame 839/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/839.png
+Frame 840/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/840.png
+Frame 841/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/841.png
+Frame 842/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/842.png
+Frame 843/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/843.png
+Frame 844/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/844.png
+Frame 845/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/845.png
+Frame 846/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/846.png
+Frame 847/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/847.png
+Frame 848/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/848.png
+Frame 849/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/849.png
+Frame 850/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/850.png
+Frame 851/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/851.png
+Frame 852/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/852.png
+Frame 853/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/853.png
+Frame 854/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/854.png
+Frame 855/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/855.png
+Frame 856/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/856.png
+Frame 857/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/857.png
+Frame 858/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/858.png
+Frame 859/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/859.png
+Frame 860/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/860.png
+Frame 861/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/861.png
+Frame 862/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/862.png
+Frame 863/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/863.png
+Frame 864/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/864.png
+Frame 865/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/865.png
+Frame 866/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/866.png
+Frame 867/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/867.png
+Frame 868/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/868.png
+Frame 869/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/869.png
+Frame 870/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/870.png
+Frame 871/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/871.png
+Frame 872/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/872.png
+Frame 873/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/873.png
+Frame 874/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/874.png
+Frame 875/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/875.png
+Frame 876/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/876.png
+Frame 877/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/877.png
+Frame 878/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/878.png
+Frame 879/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/879.png
+Frame 880/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/880.png
+Frame 881/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/881.png
+Frame 882/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/882.png
+Frame 883/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/883.png
+Frame 884/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/884.png
+Frame 885/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/885.png
+Frame 886/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/886.png
+Frame 887/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/887.png
+Frame 888/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/888.png
+Frame 889/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/889.png
+Frame 890/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/890.png
+Frame 891/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/891.png
+Frame 892/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/892.png
+Frame 893/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/893.png
+Frame 894/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/894.png
+Frame 895/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/895.png
+Frame 896/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/896.png
+Frame 897/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/897.png
+Frame 898/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/898.png
+Frame 899/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/899.png
+Frame 900/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/900.png
+Frame 901/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/901.png
+Frame 902/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/902.png
+Frame 903/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/903.png
+Frame 904/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/904.png
+Frame 905/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/905.png
+Frame 906/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/906.png
+Frame 907/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/907.png
+Frame 908/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/908.png
+Frame 909/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/909.png
+Frame 910/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/910.png
+Frame 911/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/911.png
+Frame 912/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/912.png
+Frame 913/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/913.png
+Frame 914/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/914.png
+Frame 915/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/915.png
+Frame 916/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/916.png
+Frame 917/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/917.png
+Frame 918/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/918.png
+Frame 919/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/919.png
+Frame 920/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/920.png
+Frame 921/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/921.png
+Frame 922/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/922.png
+Frame 923/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/923.png
+Frame 924/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/924.png
+Frame 925/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/925.png
+Frame 926/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/926.png
+Frame 927/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/927.png
+Frame 928/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/928.png
+Frame 929/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/929.png
+Frame 930/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/930.png
+Frame 931/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/931.png
+Frame 932/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/932.png
+Frame 933/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/933.png
+Frame 934/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/934.png
+Frame 935/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/935.png
+Frame 936/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/936.png
+Frame 937/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/937.png
+Frame 938/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/938.png
+Frame 939/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/939.png
+Frame 940/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/940.png
+Frame 941/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/941.png
+Frame 942/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/942.png
+Frame 943/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/943.png
+Frame 944/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/944.png
+Frame 945/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/945.png
+Frame 946/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/946.png
+Frame 947/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/947.png
+Frame 948/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/948.png
+Frame 949/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/949.png
+Frame 950/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/950.png
+Frame 951/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/951.png
+Frame 952/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/952.png
+Frame 953/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/953.png
+Frame 954/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/954.png
+Frame 955/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/955.png
+Frame 956/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/956.png
+Frame 957/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/957.png
+Frame 958/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/958.png
+Frame 959/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/959.png
+Frame 960/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/960.png
+Frame 961/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/961.png
+Frame 962/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/962.png
+Frame 963/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/963.png
+Frame 964/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/964.png
+Frame 965/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/965.png
+Frame 966/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/966.png
+Frame 967/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/967.png
+Frame 968/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/968.png
+Frame 969/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/969.png
+Frame 970/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/970.png
+Frame 971/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/971.png
+Frame 972/250000
+Img save path:  /scratch/vroom/data/CARLA_raw/0/972.png
+Frame 973/250000

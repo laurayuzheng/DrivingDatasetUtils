@@ -18,7 +18,7 @@ from waymo_open_dataset.utils import  frame_utils
 from waymo_open_dataset import dataset_pb2 as open_dataset
 
 ## Path variables 
-RAW_DATA_DIR = "/scratch/vroom/data/waymo_raw"
+RAW_DATA_DIR = "/scratch/DrivingDatasetUtils/Waymo/data"
 NUM_FRAMES = 8
 IMG_SHAPE = (224, 224)
 
