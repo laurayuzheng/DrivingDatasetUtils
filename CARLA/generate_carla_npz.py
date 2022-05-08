@@ -67,4 +67,4 @@ def generate_npz(raw_datadir, savedir, num_frames=8, trainval_split=0.1, test_sp
 
 if __name__ == "__main__":
     print("Start")
-    generate_npz("/scratch/vroom/data/CARLA_raw", "/scratch/vroom/data/CARLA8")
+    generate_npz("/scratch/vroom/data/raw_unprocessed/CARLA_raw", "/scratch/vroom/data/CARLA8")

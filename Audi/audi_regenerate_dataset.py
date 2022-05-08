@@ -37,18 +37,22 @@ def get_steering_id_from_timestamp(frame_timestamp, steer_timestamps):
     # print(steer_timestamps[steer_idx+1])
     return steer_idx
 
-def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
+def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1, num_frames=8, img_size=(224,224)):
 
-    folders = ["20190401_121727"]
+    folders = ["20190401_121727", "20190401_145936", "20180810150607"]
     seq_count = 0
-    num_frames = 32 # create sequence of 8
 
     for folder in folders:
+        os.makedirs(os.path.join(save_dir, "train"), exist_ok=True)
+        os.makedirs(os.path.join(save_dir, "test"), exist_ok=True)
+        os.makedirs(os.path.join(save_dir, "val"), exist_ok=True)
+
         bus_signal_file = os.path.join(data_root, "camera_lidar", folder, "bus", folder.replace("_","") + "_bus_signals" + ".json")
         with open(bus_signal_file) as f:
             bus_signal = json.load(f)
-        steer_labels = bus_signal['steering_angle_calculated']['values']
-        sign = bus_signal['steering_angle_calculated_sign']['values']
+        # steer_labels = bus_signal['steering_angle_calculated']['values']
+        # sign = bus_signal['steering_angle_calculated_sign']['values']
+        steer_labels = bus_signal['angular_velocity_omega_z']['values']
 
         # DATASET_NAME = "AudiT"
 
@@ -61,7 +65,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
 
         image_folder = os.path.join(data_root, "camera_lidar/" + folder + "/camera/cam_front_center/")
         json_list = sorted(glob.glob( image_folder + "/*.json"))
-        print(json_list)
+        # print(json_list)
         test_split_idx = int(len(json_list)/num_frames * (1-test_split)) - 1 # index to start saving to test
         val_split_idx = int(test_split_idx * (1-trainval_split)) # index to start saving to val
         print("Total sequences in folder: ", int(len(json_list) / num_frames))
@@ -93,8 +97,8 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
 
             steer_idx = get_steering_id_from_timestamp(image_timestamp, steer_labels[:,0])
             angle = float(steer_labels[steer_idx][1])
-            if sign[steer_idx][1] == 0:
-                angle = -angle
+            # if sign[steer_idx][1] == 0:
+            #     angle = -angle
 
             image_name = image_info['image_png']
 
@@ -102,7 +106,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
             # labels.write(output_line + '\n')
 
             frame = cv2.imread(image_folder + image_name)
-            frame = cv2.resize(frame, (224, 224))
+            frame = cv2.resize(frame, img_size)
             # cv2.imwrite("train"+DATASET_NAME+"/"+image_name, frame)
             x.append(frame)
             y.append([angle])
@@ -134,7 +138,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1):
 
 if __name__ == '__main__':
     # process_img_seg()
-    data_root = "/scratch/vroom/data/audi_raw/audi_munich"
-    save_dir = "/scratch/vroom/data/audi_32"
-    process_img(data_root, save_dir)
+    data_root = "/scratch/vroom/data/raw_unprocessed/audi_raw/audi_munich"
+    save_dir = "/scratch/vroom/data/Audi8_AngularVelocity"
+    process_img(data_root, save_dir, num_frames=8, img_size=(224,224))
     # generate_depthmap()

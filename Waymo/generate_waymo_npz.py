@@ -129,7 +129,7 @@ def generate_waymo_npz(data_dir: str, subfolder: str, output_dir: str):
 
 if __name__ == "__main__":
     subfolders = ["train", "val", "test"] # use for loop later
-    output_dir = "/scratch/vroom/data/Waymo8"
+    output_dir = "/scratch/vroom/data/Waymo8_224"
 
     for folder in subfolders:
         generate_waymo_npz(RAW_DATA_DIR, folder, output_dir)
