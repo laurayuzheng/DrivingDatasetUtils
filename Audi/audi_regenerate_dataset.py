@@ -39,7 +39,8 @@ def get_steering_id_from_timestamp(frame_timestamp, steer_timestamps):
 
 def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1, num_frames=8, img_size=(224,224)):
 
-    folders = ["20190401_121727", "20190401_145936", "20180810150607"]
+    folders = [ "20180810_150607", "20190401_121727", "20190401_145936"]
+    # folders = ["20190401_145936", "20180810150607"]
     seq_count = 0
 
     for folder in folders:
@@ -97,6 +98,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1, num_fra
 
             steer_idx = get_steering_id_from_timestamp(image_timestamp, steer_labels[:,0])
             angle = float(steer_labels[steer_idx][1])
+            # print(angle)
             # if sign[steer_idx][1] == 0:
             #     angle = -angle
 
@@ -138,7 +140,7 @@ def process_img(data_root, save_dir, trainval_split=0.1, test_split=0.1, num_fra
 
 if __name__ == '__main__':
     # process_img_seg()
-    data_root = "/scratch/vroom/data/raw_unprocessed/audi_raw/audi_munich"
+    data_root = "/scratch/vroom/data/raw_unprocessed/audi_raw/audi"
     save_dir = "/scratch/vroom/data/Audi8_AngularVelocity"
     process_img(data_root, save_dir, num_frames=8, img_size=(224,224))
     # generate_depthmap()
